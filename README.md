@@ -12,7 +12,7 @@
 <h3>Languages Used:</h3>
 <span><a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></span><span><a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></span>
 <hr>
-<h3>Features Access Comparison</h3>
+<h3>Features Access Comparison:</h3>
 <table>
     <tr>
         <th>Features</th>
@@ -85,4 +85,12 @@
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eo_circle_green_white_checkmark.svg/1024px-Eo_circle_green_white_checkmark.svg.png?20200417133735" width="20px" height="20px"></td>
     </tr>
 </table>
+<hr>
+<h3>How to Run the Software:</h3>
+<ol>
+    <li>Navigate into the <b>dist</b> folder and downlaod the <b>stock management.jar</b> file.</li>
+    <li>From the same folder download th <b>shivam.sql</b> file.</li>
+    <li>As this program runs over the localhost for now in the backend, you would need a localhost server, I personally use XAMPP, you can download XAMPP Control Panel from <a href="https://www.apachefriends.org/">here</a>.</li>
+    <li>After downloading and configuring XAMPP, start the <b>Apache</b> and <b>MYSQL</b> local servers.<img src=""></li>
+</ol>
 
