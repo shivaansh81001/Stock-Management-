@@ -96,7 +96,9 @@
     <li>Now click on the import button on the top and chose the shivam.sql file that you downloaded earlier. After clicking on the <b>Go</b> button on the bottom right corner, the Database should now be imported and appear in the naviagtion bar on the left.<img src="media/import.png"><img src="media/choose.png"></li>
     <li>click on the imported shivam database to view all the tables inside it. It should contain a table named <b>user</b>, which contains the logins of all the users entered in the system so far. You can use any of the following.<img src="media/shivam.png"></li>
     <li>You can now open the <b>stock management.jar</b> file and it should prompt you with the login page. <img src="media/login.png"></li>
-    <b>NOTE: If you want to use the software as Admin you can use the username as <i>"shivam"</i> and password as <i>"81001"</i> and choose operator as <i>"admin"</i>, else for employee ,you can use <i>"100"</i> as the username and <i>"123"</i> as the password, and choose operator as <i>"employee"</i></b>
-    <b>IMPORTANT:</b><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Emoji_u26a0.svg/1280px-Emoji_u26a0.svg.png?20170527190215" width="20px" height="20px"><i>XAMPP should be running in the background throughout the use of the software.</i>
+    <b>NOTE: If you want to use the software as Admin you can use the username as <i>"shivam"</i> and password as <i>"81001"</i> and choose operator as <i>"admin"</i>, else for employee ,you can use <i>"100"</i> as the username and <i>"123"</i> as the password, and choose operator as <i>"employee"</i></b><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Emoji_u26a0.svg/1280px-Emoji_u26a0.svg.png?20170527190215" width="20px" height="20px"><b>IMPORTANT:</b><i>XAMPP should be running in the background throughout the use of the software.</i><br>
 </ol>
+<hr>
+<b>😊Feel free to use the software and do let me know if you have a feedback/review by contacting me via email !</b>
 
