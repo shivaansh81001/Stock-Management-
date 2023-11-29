@@ -100,5 +100,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Emoji_u26a0.svg/1280px-Emoji_u26a0.svg.png?20170527190215" width="20px" height="20px"><b>IMPORTANT:</b><i>XAMPP should be running in the background throughout the use of the software.</i><br>
 </ol>
 <hr>
-<b>😊Feel free to use the software and do let me know if you have a feedback/review by contacting me via email !</b>
+<b>😊Feel free to use the software and do let me know if you have any feedback/review by contacting me via email !</b>
 
