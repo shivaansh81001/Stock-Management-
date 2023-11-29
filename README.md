@@ -92,10 +92,11 @@
     <li>From the same folder download th <b>shivam.sql</b> file.</li>
     <li>As this program runs over the localhost for now in the backend, you would need a localhost server, I personally use XAMPP, you can download XAMPP Control Panel from <a href="https://www.apachefriends.org/">here</a>.</li>
     <li>After downloading and configuring XAMPP, start the <b>Apache</b> and <b>MYSQL</b> local servers.<img src="media/xampp.png"></li>
-    <li>Next, open your browser and in a new tab, type <b>http://localhost/phpmyadmin/</b>. You should now be able to see something like this, on the left side, is your navigation bar conating any database that you create.<img src=""></li>
+    <li>Next, open your browser and in a new tab, type <b>http://localhost/phpmyadmin/</b>. You should now be able to see something like this, on the left side, is your navigation bar conating any database that you create.<img src="media/localhost.png"></li>
     <li>Now click on the import button on the top and chose the shivam.sql file that you downloaded earlier. After clicking on the <b>Go</b> button on the bottom right corner, the Database should now be imported and appear in the naviagtion bar on the left.<img src="media/import.png"><img src="media/choose.png"></li>
-    <li>click on the imported shivam database to view all the tables inside it. It should contain a table named <b>user</b>, which contains the logins of all the users entered in the system so far. You can use any of the following.<img src="media/shivam.sql"></li>
-    <li>You can now open the <b>stock management.jar</b> file and it should prompt you with the login page. <img src="media/login.png">.</li>
+    <li>click on the imported shivam database to view all the tables inside it. It should contain a table named <b>user</b>, which contains the logins of all the users entered in the system so far. You can use any of the following.<img src="media/shivam.png"></li>
+    <li>You can now open the <b>stock management.jar</b> file and it should prompt you with the login page. <img src="media/login.png"></li>
+    <b>NOTE: If you want to use the software as Admin you can use the username as <i>"shivam"</i> and password as <i>"81001"</i> and choose operator as <i>"admin"</i>, else for employee ,you can use <i>"100"</i> as the username and <i>"123"</i> as the password, and choose operator as <i>"employee"</i></b>
 
 </ol>
 
