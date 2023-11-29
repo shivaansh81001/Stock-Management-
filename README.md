@@ -23,7 +23,7 @@
 <<<<<<< HEAD
         <td ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eo_circle_green_white_checkmark.svg/1024px-Eo_circle_green_white_checkmark.svg.png?20200417133735" width="20px" height="20px"></td>
 =======
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eo_circle_green_white_checkmark.svg/1024px-Eo_circle_green_white_checkmark.svg.png?20200417133735" width="20px" height="20px"></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cross_red_circle.svg/1024px-Cross_red_circle.svg.png?20181021160952" width="20px" height="20px"></td>
         
 >>>>>>> 9163320fe724ba66fc889ba515fd0001fe00e7bd
     </tr>
