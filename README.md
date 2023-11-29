@@ -88,7 +88,7 @@
 <hr>
 <h3>How to Run the Software:</h3>
 <ol>
-    <li>Navigate into the <b>dist</b> folder and downlaod the <b>stock management.jar</b> file.</li>
+    <li>Navigate into the <b>dist</b> folder and download the <b>stock management.jar</b> file.</li>
     <li>From the same folder download th <b>shivam.sql</b> file.</li>
     <li>As this program runs over the localhost for now in the backend, you would need a localhost server, I personally use XAMPP, you can download XAMPP Control Panel from <a href="https://www.apachefriends.org/">here</a>.</li>
     <li>After downloading and configuring XAMPP, start the <b>Apache</b> and <b>MYSQL</b> local servers.<img src="media/xampp.png"></li>
@@ -97,6 +97,6 @@
     <li>click on the imported shivam database to view all the tables inside it. It should contain a table named <b>user</b>, which contains the logins of all the users entered in the system so far. You can use any of the following.<img src="media/shivam.png"></li>
     <li>You can now open the <b>stock management.jar</b> file and it should prompt you with the login page. <img src="media/login.png"></li>
     <b>NOTE: If you want to use the software as Admin you can use the username as <i>"shivam"</i> and password as <i>"81001"</i> and choose operator as <i>"admin"</i>, else for employee ,you can use <i>"100"</i> as the username and <i>"123"</i> as the password, and choose operator as <i>"employee"</i></b>
-
+    <b>IMPORTANT:</b><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Emoji_u26a0.svg/1280px-Emoji_u26a0.svg.png?20170527190215" width="20px" height="20px"><i>XAMPP should be running in the background throughout the use of the software.</i>
 </ol>
 
