@@ -18,5 +18,9 @@
         <th>Admin</th>
         <th>Employee</th>
     </tr>
+    <tr>
+        <td>Add/Delete/Modify User</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eo_circle_green_white_checkmark.svg/1024px-Eo_circle_green_white_checkmark.svg.png?20200417133735" width="20px" height="20px"></td>
+    </tr>
 
 </table>
