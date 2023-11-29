@@ -11,3 +11,12 @@
 <hr>
 <h3>Languages Used:</h3>
 <span><a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></span><span><a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></span>
+<hr>
+<table>
+    <tr>
+        <th>Features</th>
+        <th>Admin</th>
+        <th>Employee</th>
+    </tr>
+
+</table>
