@@ -88,7 +88,7 @@
 <hr>
 <h3>How to Run the Software:</h3>
 <ol>
-    <li>Navigate into the <b>dist</b> folder inside the stock management folder and download the <b>stock management.jar</b> file.</li>
+    <li>Download or clone repo in your system and navigate into the <b>dist</b> folder inside the stock management folder and download the <b>stock management.jar</b> file.</li>
     <li>From the same folder download th <b>shivam.sql</b> file.</li>
     <li>As this program runs over the localhost for now in the backend, you would need a localhost server, I personally use XAMPP, you can download XAMPP Control Panel from <a href="https://www.apachefriends.org/">here</a>.</li>
     <li>After downloading and configuring XAMPP, start the <b>Apache</b> and <b>MYSQL</b> local servers.<img src="media/xampp.png"></li>
